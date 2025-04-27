@@ -3,11 +3,7 @@
 ## Introduction
 This is a simple and elegant landing page for a real estate project, built using HTML and CSS. The page is designed to showcase real estate properties and attract potential clients with a clean and modern design.
 
-## Youtube Video
 
-Link: https://youtu.be/9srnyNC1e_o
-
-![alt text](./img/readme/youtube-thumbnail.png)
 
 ## Features
 * Clean Layout: A well-structured layout with sections for property listings, company information, and contact details.
@@ -17,14 +13,7 @@ Link: https://youtu.be/9srnyNC1e_o
 * HTML5: Markup language for structuring the content.
 * CSS3: Styling the layout, colors, fonts, and animations.
 
-## Installation
-**1. Clone the repository**:
-```
-git clone https://github.com/theadiga27/landing-page.git
-cd landing-page
-```
-**2. Open the project**: 
-Open the `index.html` file in your preferred web browser to view the landing page.
+
 
 ## Project Structure
 * `index.html`: Main HTML file containing the structure of the landing page.
