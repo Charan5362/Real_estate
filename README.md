@@ -32,7 +32,7 @@ This is a simple and elegant landing page for a real estate project, built using
 * Modify `styles.css` to change the color scheme, fonts, and layout as needed.
 
 ## Website Link
-Link: https://adiga-real-estate.netlify.app/ 
+Link: 
 
 ## Screenshots
 ### **1. Hero Section**: 
